@@ -14,11 +14,11 @@ My favorite languages: Rust, Haskell, F#, Go, etc.
 * [Aurora Engine](https://github.com/aurora-is-near/aurora-engine) -  Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
 
 ### My Recent activities
-[Aurora Engine](https://github.com/aurora-is-near/aurora-engine) -  Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
-[Eth Connector](https://github.com/aurora-is-near/eth-connector) - NEAR Protocol Eth Connector
-[Aurora DAO UI](https://github.com/aurora-is-near/aurora-dao-ui) - Aurora DAO frontend
-[iLang](https://github.com/mrLSD/iLang) - programming language from scretch
-[RISC-V formal spec](https://github.com/mrLSD/riscv-fs) -  F# RISC-V CPU Instruction Set formal specification
+* [Aurora Engine](https://github.com/aurora-is-near/aurora-engine) -  Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
+* [Eth Connector](https://github.com/aurora-is-near/eth-connector) - NEAR Protocol Eth Connector
+* [Aurora DAO UI](https://github.com/aurora-is-near/aurora-dao-ui) - Aurora DAO frontend
+* [iLang](https://github.com/mrLSD/iLang) - programming language from scretch
+* [RISC-V formal spec](https://github.com/mrLSD/riscv-fs) -  F# RISC-V CPU Instruction Set formal specification
 
 ## Contact info
 * [LinkedIn](https://www.linkedin.com/in/evgeny-ukhanov/)
