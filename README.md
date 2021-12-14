@@ -24,4 +24,4 @@ My favorite languages: Rust, Haskell, F#, Go, etc.
 * [LinkedIn](https://www.linkedin.com/in/evgeny-ukhanov/)
 
 ## Github stats
-![mrLSD's github stats](https://github-readme-stats.vercel.app/api?username=mrlsd&count_private=true&hide_title=true)
+![mrLSD's github stats](https://github-readme-stats.vercel.app/api?username=mrlsd&count_private=true&include_all_commits=false&hide_title=false&show_icons=true&theme=ocean_dark)
