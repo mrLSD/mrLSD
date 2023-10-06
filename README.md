@@ -1,6 +1,9 @@
 # About me
-Ph.D. of Philosophy, researcher, mathematician, programmer, 
-blockchain specialist.
+* :ballot_box_with_check: Ph.D. of Philosophy
+* :ballot_box_with_check: researcher
+* :ballot_box_with_check: mathematician 
+* :ballot_box_with_check: programmer
+* :ballot_box_with_check: blockchain specialist
 
 More than 20 years of professional development experience.
 My favorite languages: Rust, F#, Go, Haskell etc.
@@ -8,7 +11,7 @@ My favorite languages: Rust, F#, Go, Haskell etc.
 ## :hearts: My own favorite development Projects
 * [mrLSD/riscv-fs](https://github.com/mrLSD/riscv-fs) - F# RISC-V Instruction Set formal specification.
 * [mrLSD/iLang](https://github.com/mrLSD/iLang) - programming language and compiler from scratch with LLVM backend.
-  My fun project.  Work in progress.
+  My fun project. Work in progress.
 * [mrLSD/semantic-analyzer-rs](https://github.com/mrLSD/semantic-analyzer-rs.git) - Semantic analyzer library for 
   compilers written in Rust for semantic analysis of programming languages, with code generation for any backend.
   Most useful for creation compilers of programming languages.
@@ -32,7 +35,7 @@ My favorite languages: Rust, F#, Go, Haskell etc.
 * :arrow_forward: [iLang](https://github.com/mrLSD/iLang) - programming language from scratch based on LLVM.
 * :arrow_forward: [semantic-analyzer-rs](https://github.com/mrLSD/semantic-analyzer-rs.git) - Semantic analyzer library for creating compilers for programming languages.
 * :arrow_forward: [RISC-V formal spec](https://github.com/mrLSD/riscv-fs) -  F# RISC-V CPU Instruction Set formal specification
-
+* :arrow_forward: [FPGA](https://github.com/mrLSD/fpga) - FPGA Research & Development project
 
 ## :sunny: Awesome
 - [go-benchmark-app](https://github.com/mrLSD/go-benchmark-app) - my application part of [awesome Go](https://github.com/mrLSD/go-benchmark-app).
