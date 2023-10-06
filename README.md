@@ -1,9 +1,9 @@
 # About me
-* :ballot_box_with_check: Ph.D. of Philosophy
-* :ballot_box_with_check: researcher
-* :ballot_box_with_check: mathematician 
-* :ballot_box_with_check: programmer
-* :ballot_box_with_check: blockchain specialist
+- [x] Ph.D. of Philosophy
+- [x] Researcher
+- [x] Mathematician 
+- [x] Programmer
+- [x] Blockchain specialist
 
 More than 20 years of professional development experience.
 My favorite languages: Rust, F#, Go, Haskell etc.
