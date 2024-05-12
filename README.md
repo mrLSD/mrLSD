@@ -15,6 +15,7 @@ My favorite languages: Rust, F#, Go, Haskell etc.
 
 ## Recent blockchain projects
 * [Aurora](https://github.com/aurora-is-near/) - Aurora Core developer
+* [SputnikVM](https://github.com/aurora-is-near/sputnikvm) - Aurora EVM for [Arora Engine](https://github.com/aurora-is-near/aurora-engine)
 * [Aurora Engine](https://github.com/aurora-is-near/aurora-engine) - Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
 
 ## My Recent activities
@@ -28,6 +29,12 @@ My favorite languages: Rust, F#, Go, Haskell etc.
 * [iLang](https://github.com/mrLSD/iLang) - programming language from scratch based on LLVM.
 * [semantic-analyzer-rs](https://github.com/mrLSD/semantic-analyzer-rs.git) - Semantic analyzer library for creating compilers for programming languages.
 * [RISC-V formal spec](https://github.com/mrLSD/riscv-fs) -  F# RISC-V CPU Instruction Set formal specification
+
+## EVM contribution
+Ethereum EVM contribution -z including improvements, bug fixing, new features implementation:
+- [SputnikVM](https://github.com/aurora-is-near/sputnikvm)
+- [Rust EVM](https://github.com/rust-ethereum/evm)
+- [REVM](https://github.com/bluealloy/revm)
 
 
 ## Awesome
