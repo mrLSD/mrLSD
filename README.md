@@ -39,7 +39,7 @@ My favorite languages: Rust, F#, Go, Haskell etc.
 * :arrow_forward: [FPGA](https://github.com/mrLSD/fpga) - FPGA Research & Development project
 
 ## :star2: EVM contribution
-Ethereum EVM contribution -z including improvements, bug fixing, new features implementation:
+Ethereum EVM contribution :arrow_lower_right: including improvements, bug fixing, new features implementation:
 - [SputnikVM](https://github.com/aurora-is-near/sputnikvm)
 - [Rust EVM](https://github.com/rust-ethereum/evm)
 - [REVM](https://github.com/bluealloy/revm)
