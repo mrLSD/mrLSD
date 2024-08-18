@@ -12,9 +12,22 @@ My favorite languages: Rust, F#, Go, Haskell etc.
 * [mrLSD/riscv-fs](https://github.com/mrLSD/riscv-fs) - F# RISC-V Instruction Set formal specification.
 * [mrLSD/iLang](https://github.com/mrLSD/iLang) - programming language and compiler from scratch with LLVM backend.
   My fun project. Work in progress.
-* [mrLSD/semantic-analyzer-rs](https://github.com/mrLSD/semantic-analyzer-rs.git) - Semantic analyzer library for 
+* [mrLSD/semantic-analyzer-rs](https://github.com/mrLSD/semantic-analyzer-rs.git) [![Lints](https://github.com/mrLSD/z-rose/actions/workflows/lints.yml/badge.svg)](https://github.com/mrLSD/z-rose/actions/workflows/lints.yml)
+  [![Tests](https://github.com/mrLSD/z-rose/actions/workflows/tests.yml/badge.svg)](https://github.com/mrLSD/z-rose/actions/workflows/tests.yml)
+  [![codecov](https://codecov.io/gh/mrLSD/semantic-analyzer-rs/graph/badge.svg?token=ZQ8FCYSSZX)](https://codecov.io/gh/mrLSD/semantic-analyzer-rs)
+  [![Crates.io version](https://img.shields.io/crates/v/semantic-analyzer.svg?style=flat-square)](https://crates.io/crates/semantic-analyzer)
+  [![Crates.io downloads](https://img.shields.io/crates/d/semantic-analyzer.svg?style=flat-square)](https://crates.io/crates/semantic-analyzer)
+  - Semantic analyzer library for 
   compilers written in Rust for semantic analysis of programming languages, with code generation for any backend.
   Most useful for creation compilers of programming languages.
+* [mrLSD/llvm-lib-rs](https://github.com/mrLSD/llvm-lib-rs.git) [![Lints](https://github.com/mrLSD/llvm-lib-rs/actions/workflows/lints.yml/badge.svg)](https://github.com/mrLSD/llvm-lib-rs/actions/workflows/lints.yml)
+  [![Crates.io version](https://img.shields.io/crates/v/llvm-lib.svg?style=flat-square)](https://crates.io/crates/llvm-lib)
+  [![Crates.io Total Downloads](https://img.shields.io/crates/d/llvm-lib?style=flat-square&label=crates.io%20downloads)](https://crates.io/crates/llvm-lib) -  LLVM library wrapper for LLVM-C API written in Rust with safety in mind.
+
+## :floppy_disk: LLVM projects
+* [mrLSD/llvm-api-swift](https://github.com/mrLSD/llvm-api-swift.git)
+* [mrLSD/llvm-lib-rs](https://github.com/mrLSD/llvm-lib-rs.git)
+  [![Crates.io version](https://img.shields.io/crates/v/llvm-lib.svg?style=flat-square)](https://crates.io/crates/llvm-lib)
 
 ## :floppy_disk: FPGA projects
 * [FPGA](https://github.com/mrLSD/fpga) - FPGA Research & Development project
