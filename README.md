@@ -22,9 +22,9 @@ My favorite areas: RISC-V (CPU creation), LLVM (compileres design and implementa
 
 ## :star2: EVM contribution
 Ethereum EVM contribution :arrow_lower_right: including improvements, bug fixing, new features implementation:
-- [SwiftEVM](https://github.com/mrLSD/swift-evm) - **(my own project)** EVM implementation in Swift programming language. Also available as a [Swift package](https://swiftpackageindex.com/mrLSD/swift-evm).
-- [SputnikVM](https://github.com/aurora-is-near/sputnikvm)
-- [Rust EVM](https://github.com/rust-ethereum/evm)
+- [Swift EVM](https://github.com/mrLSD/swift-evm) - **(my own project)** EVM implementation in Swift programming language. Also, available as a [Swift package](https://swiftpackageindex.com/mrLSD/swift-evm).
+- [Aurora EVM](https://github.com/aurora-is-near/aurora-evm) - 	•	Lead developer
+- [Rust EVM (SputnikVM)](https://github.com/rust-ethereum/evm)
 - [REVM](https://github.com/bluealloy/revm)
 
 
