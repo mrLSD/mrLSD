@@ -11,7 +11,7 @@ My favorite languages: Rust, F#, Go, Haskell etc.
 My favorite areas: RISC-V (CPU creation), LLVM (compileres design and implementation), FPGA (hardware design), Blockchain (Ethereum, NEAR Protocol).
 
 ## :hearts: My own favorite development Projects
-* [mrlsd/swift-evm](https://github.com/mrLSD/swift-evm) - Swift EVM implementation in Swift programming language.
+* [mrLSD/swift-evm](https://github.com/mrLSD/swift-evm) - Swift EVM implementation in Swift programming language.
 * [mrLSD/riscv-fs](https://github.com/mrLSD/riscv-fs) - F# RISC-V Instruction Set formal specification.
 * [mrLSD/iLang](https://github.com/mrLSD/iLang) - programming language and compiler from scratch with LLVM backend.
   My fun project. Work in progress.
@@ -22,7 +22,7 @@ My favorite areas: RISC-V (CPU creation), LLVM (compileres design and implementa
 
 ## :star2: EVM contribution
 Ethereum EVM contribution :arrow_lower_right: including improvements, bug fixing, new features implementation:
-- [mrlsd/swift-evm](https://github.com/mrLSD/swift-evm) - **(my own project)** EVM implementation in Swift programming language. Also available as a [Swift package](https://swiftpackageindex.com/mrLSD/swift-evm).
+- [SwiftEVM](https://github.com/mrLSD/swift-evm) - **(my own project)** EVM implementation in Swift programming language. Also available as a [Swift package](https://swiftpackageindex.com/mrLSD/swift-evm).
 - [SputnikVM](https://github.com/aurora-is-near/sputnikvm)
 - [Rust EVM](https://github.com/rust-ethereum/evm)
 - [REVM](https://github.com/bluealloy/revm)
