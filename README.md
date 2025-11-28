@@ -23,7 +23,7 @@ My favorite areas: RISC-V (CPU creation), LLVM (compileres design and implementa
 ## :star2: EVM contribution
 Ethereum EVM contribution :arrow_lower_right: including improvements, bug fixing, new features implementation:
 - [Swift EVM](https://github.com/mrLSD/swift-evm) - **(my own project)** EVM implementation in Swift programming language. Also, available as a [Swift package](https://swiftpackageindex.com/mrLSD/swift-evm).
-- [Aurora EVM](https://github.com/aurora-is-near/aurora-evm) - 	•	Lead developer
+- [Aurora EVM](https://github.com/aurora-is-near/aurora-evm) - Lead developer
 - [Rust EVM (SputnikVM)](https://github.com/rust-ethereum/evm)
 - [REVM](https://github.com/bluealloy/revm)
 
@@ -37,10 +37,6 @@ Ethereum EVM contribution :arrow_lower_right: including improvements, bug fixing
   Aurora Launchpad smart contracts in Dafny.
 - [Formal Verification of a Token Sale Launchpad: A Compositional Approach in Dafny](https://arxiv.org/abs/2510.24798) - the article on [arXiv.org](https://arxiv.org/) about 
   formal research of formal verification of Aurora Launchpad smart contracts in Dafny.
-
-## :floppy_disk: FPGA projects
-* [FPGA](https://github.com/mrLSD/fpga) - FPGA Research & Development project
-* [Tang Nano 20k](https://github.com/mrLSD/Sipeed-TangNano-20K) - Sipeed Tang Nano 20k FPGA devboard project
 
 ## :bank: Recent blockchain projects
 * [Aurora](https://github.com/aurora-is-near/) - Aurora Core developer
@@ -60,6 +56,10 @@ Ethereum EVM contribution :arrow_lower_right: including improvements, bug fixing
 * :arrow_forward: [semantic-analyzer-rs](https://github.com/mrLSD/semantic-analyzer-rs.git) - Semantic analyzer library for creating compilers for programming languages.
 * :arrow_forward: [RISC-V formal spec](https://github.com/mrLSD/riscv-fs) -  F# RISC-V CPU Instruction Set formal specification
 * :arrow_forward: [FPGA](https://github.com/mrLSD/fpga) - FPGA Research & Development project
+
+## :floppy_disk: FPGA projects
+* [FPGA](https://github.com/mrLSD/fpga) - FPGA Research & Development project
+* [Tang Nano 20k](https://github.com/mrLSD/Sipeed-TangNano-20K) - Sipeed Tang Nano 20k FPGA devboard project
 
 ## :sunny: Awesome
 - [go-benchmark-app](https://github.com/mrLSD/go-benchmark-app) - my application part of [awesome Go](https://github.com/mrLSD/go-benchmark-app).
